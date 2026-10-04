@@ -1,0 +1,13 @@
+# Banking Customer Support Multi-Agent - Course-End Project 3
+# Python 3.10+ recommended.  (sqlite3 is part of the Python standard library.)
+
+langchain>=0.3,<0.4
+langchain-community>=0.3,<0.4
+langchain-core>=0.3.85,<1.0
+langchain-groq>=0.2,<0.3            # pin: newer lines require langchain-core 1.x
+
+pandas>=2.0
+matplotlib>=3.7
+
+streamlit>=1.30
+python-dotenv>=1.0
